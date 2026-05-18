@@ -1,0 +1,23 @@
+Page Number,Extracted JSON or Message
+1,"```json
+{
+  ""Invoice Number"": ""INV-9514"",
+  ""Date"": ""18 Sep 2023"",
+  ""Seller"": ""The Fat Duck"",
+  ""GSTIN"": null,
+  ""Items"": [
+    {
+      ""Quantity"": ""2.00"",
+      ""Unit Price"": ""4.00"",
+      ""VAT Amount"": ""8.00""
+    },
+    {
+      ""Quantity"": ""1.00"",
+      ""Unit Price"": ""9.00"",
+      ""VAT Amount"": ""9.00""
+    }
+  ],
+  ""Tax"": ""Zero Rated"",
+  ""Amount"": ""17.00""
+}
+```"
